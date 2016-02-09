@@ -1,0 +1,42 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/album/1553979/video/123937993'
+inLanguage: es
+starred: false
+keywords: []
+description: 'ACHAS QUE SABES DANÇAR - COUNTDOWN - KUDURO Did: Director, editing, compositing. Camera: Daniel Miranda Choreography: Show People By: bloomgraphics.tv'
+datePublished: '2016-02-09T13:20:28.608Z'
+dateModified: '2016-02-09T13:20:17.813Z'
+author:
+  - name: Miguel Barriga
+    url: 'http://vimeo.com/mildrok'
+    avatar: {}
+related: []
+app_links:
+  - url: 'vimeo://app.vimeo.com/videos/123937993'
+    type: ios
+    app_name: Vimeo
+    app_store_id: '425194759'
+  - url: 'vimeo://app.vimeo.com/videos/123937993'
+    should_fallback: 'true'
+    type: web
+    app_name: Vimeo
+    package: com.vimeo.android.videoapp
+title: AQSD 3 DIAS - COUNTDOWN
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+sourcePath: _posts/2016-02-09-aqsd-3-dias-countdown.md
+published: true
+_type: VideoObject
+_context: 'http://schema.org'
+
+---
+KUDURO
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F123937993&amp;url=https%3A%2F%2Fvimeo.com%2F123937993&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F513468759_640.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
