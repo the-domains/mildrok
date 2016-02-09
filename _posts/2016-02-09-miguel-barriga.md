@@ -16,8 +16,8 @@ keywords:
   - glossary
   - sync
 description: 'Miguel Barriga is a member of Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-02-09T12:24:41.414Z'
-dateModified: '2016-02-09T12:24:33.581Z'
+datePublished: '2016-02-09T12:25:22.462Z'
+dateModified: '2016-02-09T12:25:09.643Z'
 author:
   - avatar:
       src: 'https://i.vimeocdn.com/portrait/5219387_640x640.jpg'
