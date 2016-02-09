@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-09T12:01:29.682Z'
-dateModified: '2016-02-09T12:01:19.556Z'
+description: 'https://vimeo.com/151120582'
+datePublished: '2016-02-09T12:04:11.256Z'
+dateModified: '2016-02-09T12:04:08.627Z'
 title: SIC NOTICIAS 15 ANOS PROMO
 author: []
+sourcePath: _posts/2016-02-09-sic-noticias-15-anos-promo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-sic-noticias-15-anos-promo.md
-published: true
 url: sic-noticias-15-anos-promo/index.html
 _type: Article
 
