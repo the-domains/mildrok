@@ -4,11 +4,18 @@
         <description><![CDATA[this should be the title]]></description>
         <link>https://thegrid.ai/mildrok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 11:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 11:42:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mildrok/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://vimeo.com/146767170</p>]]></description>
+            <link>https://thegrid.ai/mildrok/571f41d3-3ba9-4d6d-b8a3-9a4c8fb7bf76/index.html</link>
+            <guid isPermaLink="false">571f41d3-3ba9-4d6d-b8a3-9a4c8fb7bf76</guid>
+            <pubDate>Tue, 09 Feb 2016 11:42:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ANDANCAS AZ]]></title>
-            <description><![CDATA[<article><h1>ANDANCAS AZ</h1><p>https://vimeo.com/131559126</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30425344-3266-4aff-92f6-2f14fd23cd54.png"></article>]]></description>
+            <description><![CDATA[<article><h1>ANDANCAS AZ</h1><p>https://vimeo.com/131559126</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33306461699d0bf2a2a4431dfc9b127fa3236019.png"></article>]]></description>
             <link>https://thegrid.ai/mildrok/andancas-az/index.html</link>
             <guid isPermaLink="false">2d27fd62-bc68-4f02-92a1-ca20d40f0496</guid>
             <pubDate>Tue, 09 Feb 2016 11:39:56 GMT</pubDate>
