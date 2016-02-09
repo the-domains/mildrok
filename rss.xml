@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mildrok]]></title>
+        <description><![CDATA[mildrok]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 11:34:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ANDANCAS AZ]]></title>
+            <description><![CDATA[<article><h1>ANDANCAS AZ</h1><p>Commemorative video of the 20 editions of the Festival Andanças</p></article>]]></description>
+            <link>undefinedandancas-az/index.html</link>
+            <guid isPermaLink="false">2d27fd62-bc68-4f02-92a1-ca20d40f0496</guid>
+            <pubDate>Tue, 09 Feb 2016 11:34:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
