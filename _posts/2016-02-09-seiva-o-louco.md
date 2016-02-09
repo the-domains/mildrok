@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - film
   - luckily
 description: 'SEIVA band! Me - Director, camera, editing, color grading. Martim Condeixa: Camera'
-datePublished: '2016-02-09T13:16:54.432Z'
-dateModified: '2016-02-09T13:16:51.351Z'
+datePublished: '2016-02-09T13:29:16.203Z'
+dateModified: '2016-02-09T13:29:12.650Z'
 author:
   - name: Miguel Barriga
     url: 'http://vimeo.com/mildrok'
