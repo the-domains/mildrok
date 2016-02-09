@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - camera
   - condeixa
@@ -16,8 +16,8 @@ keywords:
   - film
   - luckily
 description: 'SEIVA band! Me - Director, camera, editing, color grading. Martim Condeixa: Camera'
-datePublished: '2016-02-09T13:00:18.802Z'
-dateModified: '2016-02-09T13:00:03.603Z'
+datePublished: '2016-02-09T13:06:05.176Z'
+dateModified: '2016-02-09T13:02:06.173Z'
 author:
   - name: Miguel Barriga
     url: 'http://vimeo.com/mildrok'
@@ -34,14 +34,14 @@ app_links:
     app_name: Vimeo
     package: com.vimeo.android.videoapp
 title: SEIVA - O LOUCO
+sourcePath: _posts/2016-02-09-seiva-o-louco.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-02-09-seiva-o-louco.md
-published: true
 url: seiva-o-louco/index.html
 _type: VideoObject
 _context: 'http://schema.org'
