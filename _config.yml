@@ -1,6 +1,6 @@
 name: mildrok
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.50586
 typography_spectrum: 0.55687
 title: this should be the title
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#066a9a'
-    - '#00afc7'
-    - '#5894b5'
-    - '#00eef1'
-    - '#67dee8'
-  brandStrength: 0
-  lightness: 0.875
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+    - '#6aa458'
+    - '#ed7a27'
+    - '#b2e0b7'
+    - '#5a4a0f'
+    - '#f5bf37'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
