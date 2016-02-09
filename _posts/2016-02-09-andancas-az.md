@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://vimeo.com/131559126'
-datePublished: '2016-02-09T11:35:34.338Z'
-dateModified: '2016-02-09T11:35:29.662Z'
+datePublished: '2016-02-09T11:39:56.901Z'
+dateModified: '2016-02-09T11:39:51.835Z'
 title: ANDANCAS AZ
 author: []
 sourcePath: _posts/2016-02-09-andancas-az.md
@@ -22,4 +22,6 @@ url: andancas-az/index.html
 _type: Article
 
 ---
-Commemorative video of the 20 editions of the Festival Andanças
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30425344-3266-4aff-92f6-2f14fd23cd54.png)
+
+https://vimeo.com/131559126
