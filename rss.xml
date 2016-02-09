@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mildrok]]></title>
         <description><![CDATA[mildrok]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mildrok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 11:34:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 11:35:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mildrok/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ANDANCAS AZ]]></title>
             <description><![CDATA[<article><h1>ANDANCAS AZ</h1><p>Commemorative video of the 20 editions of the Festival Andanças</p></article>]]></description>
-            <link>undefinedandancas-az/index.html</link>
+            <link>https://thegrid.ai/mildrok/andancas-az/index.html</link>
             <guid isPermaLink="false">2d27fd62-bc68-4f02-92a1-ca20d40f0496</guid>
-            <pubDate>Tue, 09 Feb 2016 11:34:23 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 11:35:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
