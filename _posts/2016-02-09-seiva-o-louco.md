@@ -16,8 +16,8 @@ keywords:
   - film
   - luckily
 description: 'SEIVA band! Me - Director, camera, editing, color grading. Martim Condeixa: Camera'
-datePublished: '2016-02-09T13:37:54.742Z'
-dateModified: '2016-02-09T13:37:43.980Z'
+datePublished: '2016-02-09T13:41:03.790Z'
+dateModified: '2016-02-09T13:40:50.232Z'
 author:
   - name: Miguel Barriga
     url: 'http://vimeo.com/mildrok'
@@ -33,7 +33,7 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-title: KUDURO
+title: SEIVA - O LOUCO
 sourcePath: _posts/2016-02-09-seiva-o-louco.md
 published: true
 authors: []
@@ -47,7 +47,7 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-SEIVA - O LOUCO
+# SEIVA - O LOUCO
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F145383655&amp;url=https%3A%2F%2Fvimeo.com%2F145383655&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F543512553_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
