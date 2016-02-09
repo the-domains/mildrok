@@ -4,7 +4,7 @@
         <description><![CDATA[this should be the title]]></description>
         <link>https://thegrid.ai/mildrok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 12:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 12:25:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mildrok/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ANDANCAS AZ]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Miguel Barriga]]></title>
-            <description><![CDATA[<article><h1>Miguel Barriga</h1><p>Miguel Barriga is a member of Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9216d5dad1c9c6ddbb0aef04d2086487573abcd.jpg"></article>]]></description>
-            <link>https://vimeo.com/mildrok</link>
+            <description><![CDATA[<article><h1>Miguel Barriga</h1><p>Me, myself and I</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4d483472788c7b046066df9fde56520ef4bd9a9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mildrok/miguel-barriga/index.html</link>
             <guid isPermaLink="false">03ebca8e-52e5-4856-b2a8-41ea11c6222e</guid>
-            <pubDate>Tue, 09 Feb 2016 12:18:34 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 12:24:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
