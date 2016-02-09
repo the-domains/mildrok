@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://vimeo.com/131559126'
 inLanguage: en
 starred: false
 keywords:
@@ -15,9 +16,9 @@ keywords:
   - silvestre
   - ignacio
   - conde
-description: 'ANDANCAS A-Z Commemorative video of the 20 editions of the Festival AndançasDIRECTOR, CAMERA, EDITING, COLOR GRADING, MUSIC - Miguel Barriga (me) Thanks to all the talented people.'
-datePublished: '2016-02-09T12:25:17.510Z'
-dateModified: '2016-02-09T12:24:05.148Z'
+description: 'Commemorative video of the 20 editions of the Festival AndançasDIRECTOR, CAMERA, EDITING, COLOR GRADING, MUSIC - Miguel Barriga (me) Thanks to all the talented people.'
+datePublished: '2016-02-09T12:33:39.437Z'
+dateModified: '2016-02-09T12:33:35.050Z'
 author:
   - name: Miguel Barriga
     url: 'http://vimeo.com/mildrok'
@@ -42,7 +43,6 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-url: andancas-az/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
