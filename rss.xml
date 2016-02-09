@@ -4,8 +4,15 @@
         <description><![CDATA[this should be the title]]></description>
         <link>https://thegrid.ai/mildrok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 13:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 13:23:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mildrok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid Knowledge Base]]></title>
+            <description><![CDATA[<article><h1>The Grid Knowledge Base</h1><p>We're here to help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f27e25132876c2b70abf7cff327e798bcb0a200f.png"></article>]]></description>
+            <link>http://help.thegrid.io/search?collectionId=54dd53f9e4b034c37ea8f382&amp;query=change+content+order</link>
+            <guid isPermaLink="false">06ee59e5-39b6-4a75-af73-eb9ed38ff182</guid>
+            <pubDate>Tue, 09 Feb 2016 13:22:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SEIVA - O LOUCO]]></title>
             <description><![CDATA[<article><h1>SEIVA - O LOUCO</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eafeeb35550173d0a76ad541eb049a5222053ec3.jpg"></article>]]></description>
