@@ -4,7 +4,7 @@
         <description><![CDATA[this should be the title]]></description>
         <link>https://thegrid.ai/mildrok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 14:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 17:25:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mildrok/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AQSD 3 DIAS - COUNTDOWN]]></title>
@@ -54,13 +54,6 @@
             <link>https://vimeo.com/151120582</link>
             <guid isPermaLink="false">3399772e-fd0f-409c-ba6c-8a8a99491055</guid>
             <pubDate>Tue, 09 Feb 2016 12:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miguel Barriga]]></title>
-            <description><![CDATA[<article><h1>Miguel Barriga</h1><p>Me, myself and I</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9216d5dad1c9c6ddbb0aef04d2086487573abcd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mildrok/miguel-barriga/index.html</link>
-            <guid isPermaLink="false">03ebca8e-52e5-4856-b2a8-41ea11c6222e</guid>
-            <pubDate>Tue, 09 Feb 2016 12:25:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
