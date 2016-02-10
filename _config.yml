@@ -2,7 +2,7 @@ name: mildrok
 favicon: null
 layout_spectrum: 0.84136
 typography_spectrum: 0.60887
-title: this should be the title
+title: 'Just in time!'
 cta:
   domain: null
   bucket: null
