@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[this should be the title]]></title>
-        <description><![CDATA[this should be the title]]></description>
+        <title><![CDATA[Just in time!]]></title>
+        <description><![CDATA[Just in time!]]></description>
         <link>https://thegrid.ai/mildrok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 17:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 17:28:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mildrok/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AQSD 3 DIAS - COUNTDOWN]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/album/1553979/video/123937993</link>
             <guid isPermaLink="false">3e1b8ab9-0f13-4a7e-8ff2-ed5ce07774dc</guid>
             <pubDate>Tue, 09 Feb 2016 13:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LOREAL HIDRATACAO]]></title>
+            <description><![CDATA[<article><h1>LOREAL HIDRATACAO</h1><p>Director: Martim Condeixa Did: Editing, Color Grading By: bloomgraphics.tv</p></article>]]></description>
+            <link>https://vimeo.com/151557606</link>
+            <guid isPermaLink="false">29659274-d32c-434f-9eba-bcad7204e96c</guid>
+            <pubDate>Wed, 10 Feb 2016 17:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[dsfsdfsd]]></title>
