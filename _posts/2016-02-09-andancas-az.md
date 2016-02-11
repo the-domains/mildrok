@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/131559126'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - marta
   - alface
@@ -17,8 +17,8 @@ keywords:
   - ignacio
   - conde
 description: 'Commemorative video of the 20 editions of the Festival AndançasDIRECTOR, CAMERA, EDITING, COLOR GRADING, MUSIC - Miguel Barriga (me) Thanks to all the talented people.'
-datePublished: '2016-02-09T12:33:39.437Z'
-dateModified: '2016-02-09T12:33:35.050Z'
+datePublished: '2016-02-11T19:00:10.498Z'
+dateModified: '2016-02-11T18:42:30.820Z'
 author:
   - name: Miguel Barriga
     url: 'http://vimeo.com/mildrok'
