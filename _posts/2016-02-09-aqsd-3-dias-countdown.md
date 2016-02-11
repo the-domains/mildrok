@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/album/1553979/video/123937993'
 inLanguage: es
-starred: true
+starred: false
 keywords: []
 description: 'ACHAS QUE SABES DANÇAR - COUNTDOWN - KUDURO Did: Director, editing, compositing. Camera: Daniel Miranda Choreography: Show People By: bloomgraphics.tv'
-datePublished: '2016-02-09T13:26:27.559Z'
-dateModified: '2016-02-09T13:26:24.326Z'
+datePublished: '2016-02-11T19:01:18.986Z'
+dateModified: '2016-02-11T19:01:17.428Z'
 author:
   - name: Miguel Barriga
     url: 'http://vimeo.com/mildrok'
