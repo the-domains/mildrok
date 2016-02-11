@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - time-lapse
   - opel
@@ -34,13 +34,15 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/album/1554030/video/115422768'
 title: OPEL ADAM ROCKS in Factor X
-datePublished: '2016-02-09T13:58:26.414Z'
-dateModified: '2016-02-09T13:57:47.773Z'
+datePublished: '2016-02-11T19:00:20.764Z'
+dateModified: '2016-02-11T18:42:09.307Z'
 sourcePath: _posts/2016-02-09-opel-adam-rocks-in-factor-x.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
