@@ -4,8 +4,15 @@
         <description><![CDATA[Just in time!]]></description>
         <link>https://thegrid.ai/mildrok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 19:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 10:47:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mildrok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SIC NOTICIAS 15 ANOS PROMO]]></title>
+            <description><![CDATA[<article><h1>SIC NOTICIAS 15 ANOS PROMO</h1><p>Director: Martim Condeixa Did: Editing, Color Grading By: bloomgraphics.tv</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82eb65fd9c8f72d0d73e64ac651bcd757b122822.jpg"></article>]]></description>
+            <link>https://vimeo.com/151120582</link>
+            <guid isPermaLink="false">3399772e-fd0f-409c-ba6c-8a8a99491055</guid>
+            <pubDate>Fri, 12 Feb 2016 10:47:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ANDANCAS AZ]]></title>
             <description><![CDATA[<article><h1>ANDANCAS AZ</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c68b0ffaaf4a53417c794ab4613b49c40958b39d.jpg"></article>]]></description>
@@ -47,13 +54,6 @@
             <link>https://vimeo.com/album/1553999/video/28688219</link>
             <guid isPermaLink="false">0deb06a3-b992-49c8-b6e6-9c77f6029c27</guid>
             <pubDate>Tue, 09 Feb 2016 13:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SIC NOTICIAS 15 ANOS PROMO]]></title>
-            <description><![CDATA[<article><h1>SIC NOTICIAS 15 ANOS PROMO</h1><p>Director: Martim Condeixa Did: Editing, Color Grading By: bloomgraphics.tv</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82eb65fd9c8f72d0d73e64ac651bcd757b122822.jpg"></article>]]></description>
-            <link>https://vimeo.com/151120582</link>
-            <guid isPermaLink="false">3399772e-fd0f-409c-ba6c-8a8a99491055</guid>
-            <pubDate>Tue, 09 Feb 2016 12:18:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
