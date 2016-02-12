@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - condeixa
   - martim
@@ -34,13 +34,15 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/151120582'
 title: SIC NOTICIAS 15 ANOS PROMO
-datePublished: '2016-02-09T12:18:47.784Z'
-dateModified: '2016-02-09T12:17:52.325Z'
+datePublished: '2016-02-12T10:47:01.574Z'
+dateModified: '2016-02-12T10:46:59.481Z'
 sourcePath: _posts/2016-02-09-sic-noticias-15-anos-promo.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
