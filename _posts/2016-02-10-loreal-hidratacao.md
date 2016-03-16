@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Miguel Barriga
-    url: 'http://vimeo.com/mildrok'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/151557606'
+inLanguage: en
+starred: false
 keywords:
   - steadicams
   - condeixa
@@ -21,7 +17,13 @@ keywords:
   - grading
   - smooth
 description: 'Director: Martim Condeixa Did: Editing, Color Grading By: bloomgraphics.tv'
-inLanguage: en
+datePublished: '2016-03-16T18:57:43.370Z'
+dateModified: '2016-03-08T10:30:07.465Z'
+author:
+  - name: Miguel Barriga
+    url: 'http://vimeo.com/mildrok'
+    avatar: {}
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/151557606'
     type: ios
@@ -32,15 +34,15 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/151557606'
 title: LOREAL HIDRATACAO
-datePublished: '2016-02-10T17:24:35.868Z'
-dateModified: '2016-02-10T17:24:20.218Z'
 sourcePath: _posts/2016-02-10-loreal-hidratacao.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
